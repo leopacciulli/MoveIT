@@ -1,6 +1,6 @@
-<h2 align="center">
-  Next Level Week - #04 
-</h2>
+<h3 align="center">
+  Next Level Week #04 - By <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀
+</h3>
 
 <p align="center">“Never Stop Learning”!</blockquote>
 
@@ -10,7 +10,7 @@
 Creating a countdown that will help you exercise during your work period
 
 <div align="center">
-  <img src="./public/icons/nlwweb.png" width="600px" />
+  <img src="./public/icons/nlwweb.png" />
 </div>
 
 <br>
