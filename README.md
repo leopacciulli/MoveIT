@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2 align="center">
+  Next Level Week - #04 
+</h2>
 
-## Getting Started
+<p align="center">“Never Stop Learning”!</blockquote>
 
-First, run the development server:
+<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### 📝 About the project
+Creating a countdown that will help you exercise during your work period
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
+  <img src="./public/icons/nlwweb.png" width="600px" />
+</div>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🤖 Front-End
+The Front-End was developed with Next.js / React.js / TypeScript.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br>
 
-## Learn More
+## 🏁 Starting the project
+Clone: `git clone https://github.com/leopacciulli/MoveIT.git`
 
-To learn more about Next.js, take a look at the following resources:
+<br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🤖 Running
+<br>Open the terminal and run the following commands:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+````zsh
+$ cd MoveIT
 
-## Deploy on Vercel
+$ yarn
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+$ yarn start
+````
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+<h3 align="center">
+  Made with love by 💙 Leonardo Pacciulli
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-pacciulli">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-/in/leonardopacciulli-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/paculli">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-/LeonardoPacciulli-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+</p>
